@@ -1,0 +1,9 @@
+   aaa
+ B  aa
+ B   a
+ B    aaa
+      aaa
+a     aaa
+a
+a   aaaa
+    aaaa
